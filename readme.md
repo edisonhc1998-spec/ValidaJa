@@ -23,8 +23,8 @@ dando tempo de colocar o produto em promoção e evitar a perda.
 | `canvas-url.txt` | https://miro.com/app/board/uXjVH-33Atg=/?share_link_id=417467750483 |
 | `product-backlog.pdf` | Backlog do produto (épicos, histórias, enabler, DoR e DoD) construído no Jira |
 | `sprint-backlog.pdf` | Backlog da Sprint 1 com estimativas e critérios de aceitação |
-| `wireframes/` | Protótipos de baixa fidelidade (Figma) das telas da Sprint 1
-                  https://www.figma.com/community/file/1655741706140289362  |
+| `wireframes/` | Protótipos de baixa fidelidade (Figma) das telas da Sprint 1: https://www.figma.com/community/file/1655741706140289362 |
+                  https://www.figma.com/community/file/1655741706140289362  
 ## 👥 Contexto do projeto
 
 - **Clientes:** donos de pequenos e médios mercados de bairro
