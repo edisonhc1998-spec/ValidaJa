@@ -37,7 +37,7 @@ As imagens estão na pasta `wireframes/`. Arquivo editável no Figma: [link]
 
 ## 🎬 Vídeo de Apresentação
 
-Showcase do projeto (2 a 4 min): 
+Showcase do projeto (2 a 4 min): https://youtu.be/9IrNnO3AJk8
 
 
 fim......
